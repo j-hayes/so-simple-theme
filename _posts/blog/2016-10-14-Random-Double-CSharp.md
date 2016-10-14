@@ -16,7 +16,7 @@ http://stackoverflow.com/questions/1064901/random-number-between-2-double-number
 
 to get a random double bounded by a min and max. (I could have come up with it myself, but googling was always going to be quicker than doing the math myself. :P
 
-'''csharp
+```csharp
 //extension
 public double GetRandomNumber(this Random random, double minimum, double maximum)
 {
@@ -29,4 +29,4 @@ public double GetRandomNumber(double minimum, double maximum)
     Random random = new Random();
     return random.NextDouble() * (maximum - minimum) + minimum;
 }
-'''
+```
