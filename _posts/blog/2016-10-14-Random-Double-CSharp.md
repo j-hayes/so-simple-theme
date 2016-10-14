@@ -23,7 +23,7 @@ public double GetRandomNumber(this Random random, double minimum, double maximum
     return random.NextDouble() * (maximum - minimum) + minimum;
 }
 
-//without just a method.
+//just a method.
 public double GetRandomNumber(double minimum, double maximum)
 { 
     Random random = new Random();
