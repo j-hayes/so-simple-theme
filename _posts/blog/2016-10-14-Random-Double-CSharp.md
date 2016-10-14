@@ -24,7 +24,7 @@ public double GetRandomNumber(this Random random, double minimum, double maximum
 }
 
 //just a method.
-public double GetRandomNumber(double minimum, double maximum)
+public static double GetRandomNumber(double minimum, double maximum)
 { 
     Random random = new Random();
     return random.NextDouble() * (maximum - minimum) + minimum;
