@@ -6,8 +6,8 @@ excerpt: "If you are worried about all animal life on earth being destroyed by h
 tags: [daily]
 image:
   feature:
-date: 2016-10-16T19:45:55-04:00
-modified: 2016-10-16T19:45:55-04:00
+date: 2016-10-18T18:56:17-06:00
+modified: 2016-10-18T18:56:17-06:00
 ---
 
 If you are worried about all animal life on earth being destroyed by human's destruction of eco-systems, fear not.
@@ -32,7 +32,7 @@ Well let's put them in the vacume of space. They say, hey that's fine go ahead a
 
 Oh and back to presure. They can live in the vacuum of space, but you know if you want to cranck up the presure to 6000 earth atmosphers of presure, that's cool too. 
 
-So ya, I am impressed by these things so what else can they do? Well they can live without water for like 10 years. A sprinkle of water and boom the wake back up and reproduce and keep the party going. 
+So yeah, I am impressed by these things. So what else can they do? Well they can live without water for like 10 years. A sprinkle of water and boom the wake back up and reproduce and keep the party going. 
 
 They are found on almost every conceivable place on earth. They can withstand almost anything. Fear them. They will live on. You couldn't even go through a 3 hour flight without a gin and tonic.  
 
