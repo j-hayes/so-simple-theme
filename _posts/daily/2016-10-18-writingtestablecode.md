@@ -14,7 +14,7 @@ modified: 2016-10-19T20:07:17-06:00
 ---
 
 ### TL;DR:
-Don't name **anything** a manager. Have your classes should have a single responsiblity. Name your class and interface after that single responsibility. Don't fear long, but specific names.  Have your functions in that class do one thing. Test those isolated pieces of functionality.
+Don't name **anything** a manager. Have your classes should have a single responsibility. Name your class and interface after that single responsibility. Don't fear long, but specific names.  Have your functions in that class do one thing. Test those isolated pieces of functionality.
 
  Identify your "responsibility" before you write your interface. Then write the interface so that you could test it's responsibility. Then write the tests. Then write the code. Then fix the tests because it probably didn't quite work or test all the cases. Then fix the code for the edge case you forgot. Repeat until satisfied and acceptance criteria are met.
 
@@ -70,7 +70,7 @@ I - A class should have a few specific methods for doing one thing. Re: Don't ha
 D - You class should not be responsible for creating it's dependencies, that way they can be mocked. There by your tests can isolate just the "Unit under test." This is only possible if you are working against a dependencies interface and not the underlying implementation. See Dependency injection and Inversion of control to help with this.
 
 
-The next one that drives me insane is when I see classes and functions that are lazily named. I know no better way to tell if a class is doing more than it should than if it is called Xmanager or Xservice (For some better naming convetions see [stackoverflow](http://stackoverflow.com/questions/1866794/naming-classes-how-to-avoid-calling-everything-a-whatevermanager)).
+The next one that drives me insane is when I see classes and functions that are lazily named. I know no better way to tell if a class is doing more than it should than if it is called Xmanager or Xservice (For some better naming conventions see [stackoverflow](http://stackoverflow.com/questions/1866794/naming-classes-how-to-avoid-calling-everything-a-whatevermanager)).
 
 My favorite quote from the article was: "First thing’s KIll All The Managers." It is so true. I die a little inside every time I see something named a manager. I've done it, we all have. However, it's my new crusade to end this on projects that I am on. Instead of having a thing manager, have a thing thing repository, a thing reader, a thing writer, thing queuer, thing aggregator, thing to other thing converter. Don't have a thing manager. If you find yourself writing a really long class name, don't be too afraid as long as it is specific. If the word "and" get's involved you are probably doing more than one thing and it is time to break it up.
 
