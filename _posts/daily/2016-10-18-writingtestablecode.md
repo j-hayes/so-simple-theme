@@ -91,8 +91,8 @@ Once that is done you can then write the interface so that you could test it's r
 
  "**CAVEAT: LIVING WITH THE FLAW**
 
-  Some legacy classes are “beyond the scope of this one CL.” It may be unreasonable for a reviewer to demand a large, pre-existing problem be fixed in order to make a small change. But it is reasonable to draw a line in the sand and request that the author take steps in the right direction instead of making a bad situation worse. For example, sprout a new class instead of adding another responsibility to an existing, hard to test, object.
+  Some legacy classes are “beyond the scope of this one CL.” It may be unreasonable for a reviewer to demand a large, pre-existing problem be fixed in order to make a small change. But it is reasonable to draw a line in the sand and request that the author take steps in the right direction instead of making a bad situation worse. For example, sprout a new class instead of adding another responsibility to an existing, hard to test, object."
 
-That's what I learned today. I still am a novice unit tester. But I know where I want to be. I want unit testing to be second nature."
+That's what I learned today. I still am a novice unit tester. But I know where I want to be. I want unit testing to be second nature.
 
 src = "http://misko.hevery.com/code-reviewers-guide/"
