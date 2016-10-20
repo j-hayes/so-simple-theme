@@ -9,12 +9,12 @@ tags:
   - unit testing
 image:
   feature:
-date: 2016-10-18T18:56:17-06:00
-modified: 2016-10-18T18:56:17-06:00
+date: 2016-10-19T20:07:17-06:00
+modified: 2016-10-19T20:07:17-06:00
 ---
 
 ### TL;DR:
-Don't name **anything** a manager. Have your classes have a single responsiblity. Name your class and interface after that single responsibility. Don't fear long, but specific names.  Have your functions in that class do one thing. Test those isolated pieces of functionality.
+Don't name **anything** a manager. Have your classes should have a single responsiblity. Name your class and interface after that single responsibility. Don't fear long, but specific names.  Have your functions in that class do one thing. Test those isolated pieces of functionality.
 
  Identify your "responsibility" before you write your interface. Then write the interface so that you could test it's responsibility. Then write the tests. Then write the code. Then fix the tests because it probably didn't quite work or test all the cases. Then fix the code for the edge case you forgot. Repeat until satisfied and acceptance criteria are met.
 
