@@ -14,7 +14,7 @@ modified: 2016-10-22T20:01:17-06:00
 
 I have nothing to add to the video, but a interesting video to watch.
 
-<iframe width="600" height="789" src="https://www.youtube.com/embed/BMvT2sriq34" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/BMvT2sriq34/0.jpg)](http://www.youtube.com/watch?v=BMvT2sriq34 "Extra Dimensions Explained")
 
 -http://phdcomics.com/comics/archive.php?comicid=1522
 
