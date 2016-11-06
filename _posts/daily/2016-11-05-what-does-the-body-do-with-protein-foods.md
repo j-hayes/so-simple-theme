@@ -26,11 +26,10 @@ Well it does several things apparently:
 - It can be converted into glucose that can be burned as energy. 
   - However, if you already have eaten enough carbohydrates and sugars (and yes you probably have) it is either excreted as solid waste or after being converted to glucose, it will be stored as fat. 
   
- **The long and the short of it is, excess protein is essentially going to waste or onto your waist for most people. **
+ **The long and the short of it is, excess protein is essentially going to waste or onto your waist for most people.**
   
   Next Post: Why is the Average American eating too much protein?
   
  Sources:
- 
- http://www.humankinetics.com/excerpts/excerpts/how-our-bodies-use-protein
- [Introduction to Human Nutrition, 2nd Edition Michael J. Gibney et. all](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002320.html) 
+  - http://www.humankinetics.com/excerpts/excerpts/how-our-bodies-use-protein
+  - [Introduction to Human Nutrition, 2nd Edition Michael J. Gibney et. all](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002320.html) 
