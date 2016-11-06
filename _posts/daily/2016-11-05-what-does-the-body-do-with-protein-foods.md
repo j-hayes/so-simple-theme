@@ -31,6 +31,5 @@ Well it does several things apparently:
   Next Post: Why is the Average American eating too much protein?
   
  Sources:
- 
-  - http://www.humankinetics.com/excerpts/excerpts/how-our-bodies-use-protein
-  - [Introduction to Human Nutrition, 2nd Edition Michael J. Gibney et. all](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002320.html) 
+ - http://www.humankinetics.com/excerpts/excerpts/how-our-bodies-use-protein
+ - [Introduction to Human Nutrition, 2nd Edition Michael J. Gibney et. all](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002320.html) 
