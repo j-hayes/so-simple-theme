@@ -28,7 +28,7 @@ image:
 - Natural Language Processing
 - Machine Learning / Artificial Intelligence
 - Paradoxes
-- Personality Tests
+- Personality Types
 
 ## Things I Learned
 - C# Programming
