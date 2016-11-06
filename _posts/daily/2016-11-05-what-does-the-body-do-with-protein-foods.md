@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Does the Body do with Protein Foods?"
+title: "What Does the Body do with Excess Protein?"
 categories: daily
 excerpt: ""
 tags:
