@@ -13,14 +13,15 @@ image:
 
 ### What am I learning now?
 
-<h1 style="color:red"> Logic and Logical Fallacies </h1>
+<h1 style="color:red"> Vegetarian Nutrition  </h1>
+
 
 ### Some Potential Next Topics
 - The Greenhouse Effect
 - What is my carbon / ecological footprint?
 - Photographic Exposure
-- Vegetarian Nutrition
 - Addiction  
+- Logic and Logical Fallacies
 - Recycling
 - Music Theory
 - Electrical Engineering 101
