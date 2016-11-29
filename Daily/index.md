@@ -2,7 +2,7 @@
 layout: page
 title: Daily Thoughts
 excerpt: "Daily"
-search_omit: true
+search_omit: false
 ---
 
 <ul class="post-list">

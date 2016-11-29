@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: What Did I Learn Today?
+title: What Did Jackson Learn Today?
 locale: en_US
 description: Some (Mis)Adventures in Life Long Learning
 logo: site-logo.png
 search: true
-url: https://j-hayes.github.io/what-did-i-learn-today
+url: learn.jacksonjhayes.com
 
 # Jekyll configuration
 
@@ -40,9 +40,9 @@ owner:
   avatar: bio-photo.jpg
   email: jacksonjhayes@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: wdjlt
   facebook: #username
-  github: #username
+  github: j-hayes
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username

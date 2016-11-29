@@ -4,7 +4,7 @@ title: Topics
 excerpt: "Topics and Future Topics"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: 
+  feature:
   credit:
   creditlink:
 ---
@@ -14,7 +14,7 @@ image:
 ### What am I learning now?
 
 <h1 style="color:red"> Vegetarian Nutrition  </h1>
-
+<h1 style="color:red"> Normative Ethics </h1>
 
 ### Some Potential Next Topics
 - The Greenhouse Effect
@@ -29,6 +29,14 @@ image:
 - Machine Learning / Artificial Intelligence
 - Paradoxes
 - Personality Types
+- Major World Religions
+  - Bhudism
+  - Islam
+  - Chirstianity 
+  - Judaism 
+  - Hinduism 
+  - Shikism 
+  - Jainism
 
-## Things I Learned
+### Things I Learned
 - C# Programming
