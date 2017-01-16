@@ -28,7 +28,7 @@ I went looking for a good guide to writing solid testable code and wouldn't you 
 
 The part that most resonated with me was:
 
-["Flaw 4 Class Does Too Much"] (http://misko.hevery.com/code-reviewers-guide/flaw-class-does-too-much/)
+["Flaw 4 Class Does Too Much"](http://misko.hevery.com/code-reviewers-guide/flaw-class-does-too-much/)
 
 Warning Signs:
 - Summing up what the class does includes the word “and”
@@ -89,7 +89,7 @@ Once that is done you can then write the interface so that you could test it's r
 
   The last paragraph of the article was also something that was right on the money and I will let it speak for itself.
 
- "**CAVEAT: LIVING WITH THE FLAW**
+ **CAVEAT: LIVING WITH THE FLAW**
 
   Some legacy classes are “beyond the scope of this one CL.” It may be unreasonable for a reviewer to demand a large, pre-existing problem be fixed in order to make a small change. But it is reasonable to draw a line in the sand and request that the author take steps in the right direction instead of making a bad situation worse. For example, sprout a new class instead of adding another responsibility to an existing, hard to test, object."
 
