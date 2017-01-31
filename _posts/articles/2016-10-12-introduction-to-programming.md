@@ -674,7 +674,6 @@ public class MicrowaveExample
 - One of the best ways to learn how to program is to just say screw it and go build something. 
 
     - It is some much easier to motivate yourself to overcome the mental hurdles involved if you are motivated by the desire to build something. Don't just build anything, build something that you think would be useful, or cool or both. The first thing that I wanted to build was, in my sophomore year of college, a website that allowed students to connect and sell their books to one another as opposed to buying and selling back books to the big companies like amazon or bookstores. 
-
 - Find someone to guide you. Don't go it alone. **But.** Ask the right person(s). 
 
     - Back to the story of the college sophomore who wanted to build a website. Well I started researching the tools that I knew about, and at that time it was WordPress and other content management systems. I asked someone I knew to be a well versed computer scientist, a friend of a highschool classmate of mine. His specialty is super computing. So yes he is a likely a great programmer. However, he didn't know the tools that I needed to be using to easily build the thing I wanted to build. Long story short I wasted many months using the wrong tool. Not to say I couldn't have built it using the tools that I was using, but I could have much more easily built it with the tools I used later. 
@@ -683,6 +682,7 @@ public class MicrowaveExample
     - See above story. You'll fail. But with persistence you will eventually succeed. You won't understand everything right away. 
 - Before you go ask someone else how to do something just google it. 
     - This is my general advice for any type of learning these days. Someone else has likely had the same question as you. If you google your exact question, you will likely end up with an article that has answered your question. Then if you can't find it, go ask a person who might know the answer, not before. 
+- Find a good IDE (Integrated Development Environment) these are the "microsoft word" of writing software. There are many good options, using one will save you a lot of time and headache in the long run.
 
 
 --------
@@ -690,12 +690,12 @@ public class MicrowaveExample
 
 There are so so so many resources to learn how to code out there. I will mention a few. 
 
-- [Stackoverflow](http://www.stackoverflow.com)
-    - This website is where you likely end up when you google your questions. It is an entire website of people saying "HALP I DON'T GET IT. ANYONE KNOW HOW DO THING I CAN'T DO?"
 - C# stuff
     - Microsoft has really stepped up there game in terms of documentation. They have tons of tutorials and examples out there on the web. 
     - Here is a better version, with hands on examplesm of what I set out to do in my post. [Getting Started with C#](https://www.microsoft.com/net/tutorials/csharp/getting-started)
 - [Khan Academy](https://www.khanacademy.org/)
     - I haven't used this site before, but I have heard great things about it. 
     - It really appears to be a great place to start learning a lot of different things.
+- [Stackoverflow](http://www.stackoverflow.com)
+    - This website is where you likely end up when you google your questions. It is an entire website of people saying "HALP I DON'T GET IT. ANYONE KNOW HOW DO THING I CAN'T DO?"
 - As I write this list, honestly it's not worth even trying. I don't have a good landscape of where to learn programing from scratch these days. See my previous advice, ask someone who does the thing you are trying to do and they (or me) can send you in the right direction. 
