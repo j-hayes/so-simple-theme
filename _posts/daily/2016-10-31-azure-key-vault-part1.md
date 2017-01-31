@@ -16,7 +16,7 @@ date: 2016-10-22T20:01:17-06:00
 modified: 2016-10-22T20:01:17-06:00
 ---
 
-# Post Not Complete
+# Azure Key Vault Part 1
 
 Over the last few weeks I have been learning a pretty cool new feature / product in azure. It is called Key Vault. Key vault is essentially a cloud hsm (place that you do encryption and decryption) and a store for your keys and secrets. (I.E. Certificates and things like database passwords or other connection values.) There are several low hanging fruit advantages to this. For us this allowed us to move our tenant configuration information from a sql database to more secure place. I will go into more depth of what we used it for in a subseqent post. This post will cover setting up an azure key vault instance in the new portal (Yeah! No PowerShell required!)
 
@@ -103,7 +103,7 @@ On the top click Add
 
 The names and urls are mostly symbolic as you could distribute the applicationid and secrets to anyone. But this was it is easy to manage what applications have access to what keys and secrets. It is NOT recommended that one AAD app registration be shared by multiple applications. Especially if they are applications outside of Azure. The beauty of Azure Key the credentials to access the keys and secrets never has to leave azure. If your live account doesn't get comprised, neither do the secrets. (No promises, but you know what I mean. Nothing is ever absolutely secure. And you should plan for such scenarios.)
 
-#### Enable an Applications in Key Vault 
+#### Enable an Applications in Key Vault
 
 Navigate to your key vault and click "Access Policies" under "Monitoring
 
@@ -120,6 +120,7 @@ Click Key Permissions, Click All, Select All and Press Ok
 Click Secret Permissions, Click All, Press Ok
 Press Ok at the bottom and your application will be granted access
 
-
-
 Repeat these steps for every application you want to have access to the key vault.
+
+### More More more
+I will do a follow up post on how to use the keys in an application in a later post. 

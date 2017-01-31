@@ -6,7 +6,8 @@ categories: daily
 excerpt:
 tags:
   - learning
-
+  - C#
+  - code
 image:
   feature:
 date: 2016-10-14T11:30:55-04:00

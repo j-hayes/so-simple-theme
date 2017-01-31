@@ -11,8 +11,8 @@ tags:
 
 image:
   feature:
-date: 2017-01-121T21:40:55-04:00
-modified: 2017-01-121T21:40:55-04:00
+date: 2017-01-12T21:40:55-04:00
+modified: 2017-01-12T21:40:55-04:00
 ---
 
 # What does Demagogue Mean?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "why on earth should that mean that it is not real?"
+title: "Why on earth should that mean that it is not real?"
 categories: daily
 excerpt: "Of course it’s happening inside your head, Harry, but why on earth should that mean that it is not real?"
 tags: [daily]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some Smart People Talking about Extra Dimesnions (Illustrated)"
+title: "Some Smart People Talking about Extra Dimensions (Illustrated)"
 categories: daily
 excerpt: "If the load can be distributed better through out time, less infrastructure is needed, less resources are needed."
 tags:
@@ -18,6 +18,6 @@ I have nothing to add to the video, but a interesting video to watch.
 
 -http://phdcomics.com/comics/archive.php?comicid=1522
 
-I need to learn more phsyics...
+I need to learn more physics...
 
 ![alt image](http://67.media.tumblr.com/tumblr_lyc54f3pnU1qhap1n.jpg)
