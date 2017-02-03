@@ -13,7 +13,7 @@ modified: 2016-10-11T23:30:55-04:00
 
 Hello friends. This is a new blog I am cooking up. It is titled: "What Did I Learn Today?"
 
-I occasionally joked with coworkers of creating a chat line in our group messaging system "slack" called "What Did I Learn Today?" This channel would be little snippets of the gotchas and cool tricks that one learns while doing software development. There doesn't seem to be a day that goes by where I don't have at least one nugget of information worth sharing with the team. This blog idea sort of spawned from that.
+I occasionally joked with coworkers of creating a chat line in our group messaging system "slack" called "What Did I Learn Today?" This channel would be used for little snippets of the gotchas and cool tricks that one learns while doing software development. There doesn't seem to be a day that goes by where I don't have at least one nugget of information worth sharing with the team. This blog idea sort of spawned from that.
 
 As people who meet me will often hear me saw, "I am kind of a hobbyist." I say this because I think it is easier to understand than to say what I actually think of myself, a learner-a life-long learner.
 
@@ -25,18 +25,16 @@ This blog is dedicated to that pursuit of knowledge and that part of myself that
 
 ---
 
-Each post will have a topic (and presumably these topics fall into categories or different even series). My goal will be to learn this top well enough to teach it to you, my good reader, in a concise manner. Neither you nor I will walk away knowing the topic inside and out more likely than not, but I want to at least provide a starting point, and some suggested continued reading or resources.
+Each post will have a topic (and presumably these topics fall into categories or even different series). My goal will be to learn this topic well enough to teach it to you, my good reader, in a concise manner. Neither you nor I will walk away knowing the topic inside and out more likely than not, but I want to at least provide a starting point, and some suggested continued reading or resources.
 
 My articles will have the following sections. (Usually. I can't promise total consistency.)
-- TL;DR. The absolute bare minimum you need to know. 
+- TL;DR. The absolute bare minimum you need to know.
 - Primer (An intro / context / my reasons for learning or whatever I want to preface the post with)
 - The Fun Stuff (The actual content)
-- More More More (Resources for Continued Learning)
+- More More More (Resources for continued learning)
 ---
 
-I never count a day as truly good unless I learned something. Maybe it's about work, something science-e, some new line on the piano, maybe even something about myself.
-
-In the spirit of this I will also post smaller quick tweet style (usually longer than a tweet, as you may already be able to tell, I am fairly long winded.) learnings in the "Daily" section. Warning in advance, these inevitably will often be related to software development a lot, because that is how I spend a lot of my time.
+I never count a day as truly good unless I learned something. It could be about something technology or software related at work, something science-y, some new line on the piano, something about the environment, photography, or well basically anything. In the spirit of this I will also post brief (usually longer than a tweet, as you may already be able to tell, I am fairly long winded.) learnings in the "Daily" section. Warning in advance, these inevitably will often be related to software development a lot, because that is how I spend a lot of my time.
 
 I also anticipate putting a lot quotes of smart or funny (or better yet both) people in this section. (That thesaurus of quotes I bought for myself might finally get some more practical use other than entertaining me while I sit on the toilet.)
 
@@ -52,9 +50,7 @@ I'd like to think I have up to this point in life learned a thing or two. So I, 
 
 I will attempt in this post to demystify software development ("programming") to the lay person and walk you through writing your first small application. I hope to prove to you that it is something that anyone can learn. Then I will point you in the direction of resources to continue your learning if you feel so inspired.
 
-Without further ado: Introduction to Programming (Using C#)
+Without further ado: [Introduction to Programming (Using C#)](http://learn.jacksonjhayes.com/articles/introduction-to-programming/)
 
 Thanks for learning with me.
 Jackson
-
-
