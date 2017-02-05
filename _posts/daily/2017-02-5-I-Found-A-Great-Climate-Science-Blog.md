@@ -3,7 +3,7 @@ layout: post
 title: "I Found a Awesome Climate Science Blog "
 modified:
 categories: daily
-excerpt:
+excerpt: "Who is it for: People interested in the science behind the climate stories we read about every day. People who want to learn. People who want to contribute to other people learning about climate science."
 tags:
   - Climate Change
   - Climate Science

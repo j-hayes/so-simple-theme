@@ -13,11 +13,10 @@ image:
 
 ### What am I learning now?
 
-<h1 style="color:red"> Vegetarian Nutrition  </h1>
-<h1 style="color:red"> Normative Ethics </h1>
+### Climate Science 
+### Basics of Chemistry 
 
 ### Some Potential Next Topics
-- The Greenhouse Effect
 - What is my carbon / ecological footprint?
 - Photographic Exposure
 - Addiction  
@@ -29,6 +28,8 @@ image:
 - Machine Learning / Artificial Intelligence
 - Paradoxes
 - Personality Types
+- Vegetarian Nutrition
+- Normative Ethics 
 - Major World Religions
   - Bhudism
   - Islam
