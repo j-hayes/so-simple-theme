@@ -3,7 +3,7 @@ layout: post
 title: "Places to Find Free Online Textbooks"
 modified:
 categories: daily
-excerpt:
+excerpt: ""
 tags:
   - Climate Change
   - Climate Science
