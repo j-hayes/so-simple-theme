@@ -11,7 +11,7 @@ date: 2016-10-11T23:30:55-04:00
 modified: 2016-10-11T23:30:55-04:00
 ---
 
-Hello friends. This is a new blog I am cooking up. It is titled: "What Did I Learn Today?"
+Hello friends. This is a new blog I am cooking up. It is titled: "What Did Jackson Learn Today?"
 
 I occasionally joked with coworkers of creating a chat line in our group messaging system "slack" called "What Did I Learn Today?" This channel would be used for little snippets of the gotchas and cool tricks that one learns while doing software development. There doesn't seem to be a day that goes by where I don't have at least one nugget of information worth sharing with the team. This blog idea sort of spawned from that.
 
@@ -34,6 +34,11 @@ My articles will have the following sections. (Usually. I can't promise total co
 - More More More (Resources for continued learning)
 ---
 
+This blog is going to be entirely opt-in. What do I mean by that. I am not going to be posting to facebook every time I put one of these posts out. There is a link to an RSS feed at the bottom of every page. If you want updates please use that.
+
+If there is a really good post, I'll potentially share it. Mostly just as a reminder to the world that this exists. 
+---
+
 I never count a day as truly good unless I learned something. It could be about something technology or software related at work, something science-y, some new line on the piano, something about the environment, photography, or well basically anything. In the spirit of this I will also post brief (usually longer than a tweet, as you may already be able to tell, I am fairly long winded.) learnings in the "Daily" section. Warning in advance, these inevitably will often be related to software development a lot, because that is how I spend a lot of my time.
 
 I also anticipate putting a lot quotes of smart or funny (or better yet both) people in this section. (That thesaurus of quotes I bought for myself might finally get some more practical use other than entertaining me while I sit on the toilet.)
@@ -43,7 +48,6 @@ I also anticipate putting a lot quotes of smart or funny (or better yet both) pe
 The blog section will be perhaps meta posts about learning, reflections on what I am learning, or well quite frankly whatever else I feel like putting there. Who knows. A little mystery in life is a good thing.
 
 The content will not over lap with the blog that I have going on over at www.jacksonjhayes.com which is mostly a travel blog / journal style blog.
-
 ---
 
 I'd like to think I have up to this point in life learned a thing or two. So I, without having to go off and learn something new,  I will offer up my first topic. Learning 0. This will hopefully give you a taste of what a post on here might look like (and it provides me a chance to get used to the tool I am using to build this blog.)
@@ -51,6 +55,9 @@ I'd like to think I have up to this point in life learned a thing or two. So I, 
 I will attempt in this post to demystify software development ("programming") to the lay person and walk you through writing your first small application. I hope to prove to you that it is something that anyone can learn. Then I will point you in the direction of resources to continue your learning if you feel so inspired.
 
 Without further ado: [Introduction to Programming (Using C#)](http://learn.jacksonjhayes.com/articles/introduction-to-programming/)
+
+(I mostly made this post to learn how to use the tool that I am using to create this blog, but hope it is helpful)
+
 
 Thanks for learning with me.
 Jackson
