@@ -10,7 +10,7 @@ tags:
 image:
   feature:
 date: 2017-02-05T13:30:55-04:00
-modified: 2016-10-14T13:30:55-04:00
+modified: 2017-02-05T13:30:55-04:00
 ---
 
 So I was prowling around the internet yesterday looking generally for a "mathy" explanation for the greenhouse effect. Basically like if you have x amount of CO<sub>2</sub> how much heat is going to be retained in a system. Although I knew that I wasn't going to be able to fully understand it. I want to be at least a little more knowledgeable. 

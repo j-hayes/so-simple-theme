@@ -9,8 +9,8 @@ tags:
   - theology
 image:
   feature:
-date: 2017-10-14T11:30:55-04:00
-modified: 2016-10-14T11:30:55-04:00
+date: 2017-02-15T13:30:55-04:00
+modified: 2017-02-15T13:30:55-04:00
 ---
 
 I came upon a website with a host of wonderful interview based discussions of philosophy (the fist of which I came across was one on the nature of consciousness.) The website is called [Closer to the Truth](https://www.closertotruth.com) and originates from a PBS show. The specific set of videos I began watching is called [Are Science and Religion at War.](https://www.closertotruth.com/series/are-science-religion-war)
