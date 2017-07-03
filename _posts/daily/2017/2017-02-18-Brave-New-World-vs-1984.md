@@ -8,8 +8,8 @@ tags:
   - theology
 image:
   feature:
-date: 2017-10-14T11:30:55-04:00
-modified: 2016-10-14T11:30:55-04:00
+date: 2017-02-18T11:30:55-04:00
+modified: 2017-02-18T11:30:55-04:00
 ---
 
 A good primer to this post are the following two youtube videos. I had to watch them to get refresher on the plot-line. I am sensitive that most of us don't have time to sit down and read or re-read these books. (Although I would highly recommend both of them both because of cultural relevance and literary brilliance)
