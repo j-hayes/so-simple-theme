@@ -2,7 +2,7 @@
 layout: post
 title: "A Priori and A Posteriori"
 categories: daily
-excerpt: For example, the proposition that all bachelors are unmarried is a priori, and the proposition that it is raining outside now is a posteriori.
+excerpt: "For example, the proposition that all bachelors are unmarried is a priori, and the proposition that it is raining outside now is a posteriori."
 tags:
   - philosophy
   - words
